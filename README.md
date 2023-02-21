@@ -1,0 +1,17 @@
+Job4j_exams - Вопросы-ответы к собеседованию по следующим блокам:
+
+- БАЗОВЫЙ СИНТАКСИС
+- ООП
+- COLLECTIONS LITE
+- LAMBDA, STREAM API, FUNCTIONAL PROGRAMMING
+- DATA STRUCTURES AND ALGORITHMS
+- INPUT-OUTPUT
+- SQL, JDBC
+- GARBAGE COLLECTION
+- SOLID
+- MULTITHREADING
+- GIT
+- WEB
+- HIBERNATE
+- SPRING
+- MICROSERVICES
